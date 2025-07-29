@@ -1,4 +1,4 @@
-# time-diff-module
+# Time Difference Module
 Digital time-difference calculator with PCB layout and simulation in Multisim 
 
 # Purpose
