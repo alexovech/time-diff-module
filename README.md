@@ -1,3 +1,3 @@
-# Time Difference Module
+# LapTimer – Subtraction Module
 
-Receives two lap-time values from independent stopwatches triggered whenever each object crosses the LDR sensor and calculates their difference. It handles carries, detects negative outcomes via the borrow flag, and drives the result to a seven-segment display. Eventually, the module gives an immediate and precise read-out of how far ahead or behind one object is.
+This repository will demonstrate my own contribution to the big team project called *LapTimer*. My task was to create a holistic system of subtracting two specific time values given after electrical impulse. Difficulties, their solutions and more detailed description of the whole project are provided below.
