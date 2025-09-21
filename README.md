@@ -8,3 +8,9 @@ This repository will demonstrate my own contribution to the big team project cal
 - **Technology:** Texas Instruments 74LS series logic (Full Adders, Flip-Flops, Inverters, XOR/AND/NOR gates).
 - **Simulation & PCB:** Designed in Multisim and Ultiboard (with 3D projection).
 - **Full project description:** [overview](docs/overview.md)
+
+---
+
+## Demonstration
+Circuit in Multisim:  
+![](docs/images/circuit_multisim.png)
