@@ -13,4 +13,4 @@ This repository will demonstrate my own contribution to the big team project cal
 
 ## Demonstration
 Circuit in Multisim:  
-![](docs/images/circuit_multisim.png)
+![](images/circuit_multisim.png)
