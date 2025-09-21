@@ -16,4 +16,4 @@ Circuit in Multisim:
 ![](images/circuit_multisim.png)
 
 PCB 3D view (Ultiboard):  
-![](docs/images/pcb_3d.png)
+![](images/pcb_3d.png)
