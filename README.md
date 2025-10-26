@@ -24,3 +24,8 @@ PCB 3D view (Ultiboard):
 System in Action: [▶ Watch on YouTube](https://youtu.be/your_video_link)
 
 ![](images/demo_short.gif)
+
+---
+
+## Problem-Solving Process
+**Full list of challenges and their sollutions:** [Overview](docs/overview.md)
