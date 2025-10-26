@@ -30,5 +30,5 @@ System in Action: [▶ Watch on YouTube](https://youtu.be/your_video_link)
 ## Problem-Solving Process
 **Full list of challenges and their sollutions:** [Problems & Solutions](docs/problems_solutions.md)
 
-**Example of early calculations:**
-![](images/circuit_multisim.png)
+**Example of handwritten handnotes:**
+![](docs/hand_notes/sketch1.png)
