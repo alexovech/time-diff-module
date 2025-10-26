@@ -21,5 +21,6 @@ PCB 3D view (Ultiboard):
 ---
 
 ## Video Demonstration
-System in Action:
+System in Action: [▶ Watch on YouTube](https://youtu.be/your_video_link)
+
 ![](images/circuit_multisim.png)
