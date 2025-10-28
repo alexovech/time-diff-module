@@ -4,4 +4,4 @@ Apart from the stopwatch function, the system also features a **traffic light** 
 
 With the incorporation of these components, the system provides a structured and effective solution to the calculation of lap time, and as such, it is appropriately placed in racing settings where precision and consistency are very precious.
 
-![](Block_Diagram.png)
+![](images/Block_Diagram.png)
