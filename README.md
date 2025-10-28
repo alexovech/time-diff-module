@@ -13,10 +13,10 @@ This repository will demonstrate my own contribution to the big team project cal
 
 ## Photo Demonstration
 Circuit in Multisim:  
-![](images/circuit_multisim.png)
+![](docs/images/circuit_multisim.png)
 
 PCB 3D view (Ultiboard):  
-![](images/pcb_3d.png)
+![](docs/images/pcb_3d.png)
 
 ---
 
