@@ -55,6 +55,6 @@ But there are quite a few ways in which this system can be improved and minimize
 One possible enhancement could be to use a **microcontroller** (like Arduino or ATmega) to create the subtraction logic.
 This would enable a single logic IC to replace multifaceted logic ICs. It was intended to simplify wiring and reduce board sizes.
 
-4. **Implementation using VHDL on a PLD/CPLD**
+2. **Implementation using VHDL on a PLD/CPLD**
 
 One possible solution using logic design re-engineering would involve redesigning using **Hardware Description Language (VHDL)** to run the logic design on a **programmable logic device (PLD or CPLD)**. This solution would retain the same digital logic design structure for the original project but would improve its speed performance. but with a far smaller footprint, so that everything remains purely hardware-based.
