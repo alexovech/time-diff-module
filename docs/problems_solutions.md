@@ -47,3 +47,5 @@ Additionally, **D-type flip-flops (SN74LS74AN)** were added to store the output 
 **The principle of working:**
 When the automatic reset signal is triggered, the clock input of the D-type flip-flop activates slightly **before** the timer resets.
 This will permit the flip-flop to **latch the final BCD value ** from the output of a timer and hold it steady. The reset pulse reaches the timer after a short delay introduced by the RC network (a few microseconds), clearing its registers for the next lap. This means that the subtraction module always receives the complete final time of the previous lap, thus guaranteeing **precision** and **synchronization** among the measurement cycles.
+
+![](images/Dtype.png)
