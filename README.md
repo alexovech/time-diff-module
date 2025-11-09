@@ -3,7 +3,7 @@
 Team of 5 students.  
 My role: digital circuit designer.  
 Developed the subtraction module responsible for calculating the time difference between two stopwatch readings.  
-Implemented using 74LS-series logic (Full Adders, Flip-Flops, Logic Gates) in Multisim and Ultiboard.  
+
 
 
 ---
