@@ -15,7 +15,7 @@ the correction logic is triggered, which sends a binary `1010₂` (+6) into the 
 This adder adjusts the value to return it to the valid BCD range of 0 to 9. The correction stage receives `0000₂` if the condition for overflow is false; this leaves the output unchanged. Consequently, every digit remains a valid BCD output irrespective of the carry propagation during subtraction.
 
 
---
+---
 
 ### Problem 2 - Incorrect Display of Negative Results
 
