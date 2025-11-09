@@ -30,3 +30,20 @@ The XOR phase was receiving signals from both the final **carry-out** signal and
 **The principle of working:**
 Both signals' negative result indicators would cause the XOR gates to invert bits.
 As soon as the system recognizes a borrow or an absent carry (logic ‘1’ from detection gates), the XOR function reverses its output bits. As a result, the two’s complement negative value gets transformed into its positive magnitude. Accordingly, instead of printing an invalid number (like 997), the result is corrected to print a valid representation of its absolute value in BCD. The sign itself isn’t shown, but the numerical value remains correct and fixed within the 7-segment display.
+
+---
+
+### Problem 3 - Time Resetting
+
+**Problem Description:**
+The subtraction module had to get an automatic signal from the main timer which would trigger the reset for the next measurement of the lap.
+However, this reset happened **too fast**, without allowing the circuit to capture and store the last value counted.
+This meant that the subtraction step was typically done on incomplete or reset information, making it difficult to obtain precise lap time differences.
+
+**Solution Implemented:**
+An **RC circuit** was implemented such that there was a slight delay (on the order of microseconds) between the reset signal and actual timer reset.
+Additionally, **D-type flip-flops (SN74LS74AN)** were added to store the output value of the timer immediately before it was cleared.
+
+**The principle of working:**
+When the automatic reset signal is triggered, the clock input of the D-type flip-flop activates slightly **before** the timer resets.
+This will permit the flip-flop to **latch the final BCD value ** from the output of a timer and hold it steady. The reset pulse reaches the timer after a short delay introduced by the RC network (a few microseconds), clearing its registers for the next lap. This means that the subtraction module always receives the complete final time of the previous lap, thus guaranteeing **precision** and **synchronization** among the measurement cycles.
