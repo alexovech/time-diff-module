@@ -40,3 +40,8 @@ System in Action: [▶ Watch on YouTube](https://youtu.be/your_video_link)
 ![](docs/hand_notes/sketch2.png)
 
 ➡️ [See rest early calculations and design notes here](docs/hand_notes)
+
+---
+
+## Future Improvements
+
