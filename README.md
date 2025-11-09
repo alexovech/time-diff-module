@@ -9,10 +9,10 @@ Developed the subtraction module responsible for calculating the time difference
 ---
 
 ## Overview
+- **Full project description:** [Overview](docs/overview.md)
 - **Technology:** Texas Instruments 74LS series logic (Full Adders, Flip-Flops, Inverters, XOR/AND/NOR gates).
 - **Simulation & PCB:** Designed in [Multisim](schematic/multisim) and [Ultiboard](schematic/pcb) (with 3D projection).
 - **Features:** BCD-based subtraction, carry/borrow correction, RC-delay capture, and 7-segment display output.
-- **Full project description:** [Overview](docs/overview.md)
 
 ---
 
