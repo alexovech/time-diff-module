@@ -29,7 +29,7 @@ PCB 3D view (Ultiboard):
 ## Video Demonstration
 System in Action: [▶ Watch on YouTube](https://youtu.be/your_video_link)
 
-![](images/demo_short.gif)
+![](video/subtraction.gif)
 
 ---
 
