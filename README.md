@@ -11,7 +11,7 @@ Developed the subtraction module responsible for calculating the time difference
 ## Overview
 - **Full project description:** [Overview](docs/overview.md)
 - **Skills Developed:** Working with Multisim and Ultiboard, designing and testing digital circuits, debugging BCD subtraction logic, and optimizing PCB layout.
-- **Features:** BCD-based subtraction, carry/borrow correction, RC-delay capture, setting values through D-typpe flip-flops and 7-segment display output.
+- **Features:** BCD-based subtraction, carry/borrow correction, RC-delay capture, setting values through D-type flip-flops and 7-segment display output.
 - **Technology:** Texas Instruments 74LS series logic (Full Adders, Flip-Flops, Inverters, XOR/AND/NOR gates).
 - **Simulation & PCB:** Designed in [Multisim](schematic/multisim) and [Ultiboard](schematic/pcb) (with 3D projection).
 
