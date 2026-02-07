@@ -1,7 +1,7 @@
 # LapTimer – Subtraction Module
 
 Team of 5 students.  
-My role: digital circuit designer.  
+My role: subtraction module designer.  
 Developed the subtraction module responsible for calculating the time difference between two stopwatch readings.  
 
 
