@@ -37,10 +37,10 @@ System in Action: [▶ Watch on YouTube](https://youtu.be/WPylpVr9RIs)
 ## Problem-Solving Process
 **Full list of challenges and their sollutions:** [Problems & Solutions](docs/problems_solutions.md)
 
-**Example of handwritten handnotes:**
+**Example of handwritten notes:**
 ![](docs/hand_notes/sketch2.png)
 
-➡️ [See rest early calculations and design notes here](docs/hand_notes)
+➡️ [View rest early calculations and design notes here](docs/hand_notes)
 
 ---
 
